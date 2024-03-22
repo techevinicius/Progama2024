@@ -29,7 +29,7 @@
 .titulo-principal span {
     color: var(--verde);
 }
-.botao {
+.botao{
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
@@ -45,7 +45,7 @@
     border-right: 2px solid var(--botao-ativo); 
     border-top: none;
 }
-    .botoes {
+    .botoes{
         display: block;
     }
     
